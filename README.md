@@ -1,4 +1,4 @@
-### Hi there 👋
+# About
 
 <!--
 **cicadoves/cicadoves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A newbie, currently learning stuffs from __a certain groups of people that likes to do some trolling__
