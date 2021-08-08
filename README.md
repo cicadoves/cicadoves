@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm a newbie to programming
-- I'm currently learning from __a certain group of people that likes to do some trolling__
+- I'm expired newbie to programming
+- I'm still learning from __group of people that do some trolling__
