@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 - I'm expired newbie to programming
 - I'm still learning from __group of people that do some trolling__
+
+Anyway, here is a picture of penguins.
+![penguins](https://raw.githubusercontent.com/thisgary/thisgary/main/penguins.jpeg)
