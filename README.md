@@ -1,7 +1,7 @@
 # About
 
 <!--
-**cicadoves/cicadoves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thisgary/thisgary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm expired newbie to programming
-- I'm still learning from __group of people that do some trolling__
+- I'm an outdated newbie to programming
+- I've stopped learning from _group of people that do some trolling_
 
 Anyway, here is a picture of penguins.
 ![penguins](https://raw.githubusercontent.com/thisgary/thisgary/main/penguins.jpeg)
