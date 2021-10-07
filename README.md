@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm an outdated newbie to programming
-- I've stopped learning from _group of people that do some trolling_
-
-Anyway, here is a picture of penguins.
+Here's an image of penguins.
 ![penguins](https://raw.githubusercontent.com/thisgary/thisgary/main/penguins.jpeg)
