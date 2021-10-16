@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here's an image of penguins.
-![penguins](https://raw.githubusercontent.com/thisgary/thisgary/main/penguins.jpeg)
+Yellow
