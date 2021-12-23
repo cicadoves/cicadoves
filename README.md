@@ -15,4 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Every
+Q: Who are you?
+
+A: I am Gary.
+
+---
+
+Q: What are you doing?
+
+A: I have no idea. 
+
+---
+
+Q: Do you play basketball?
+
+A: No.
