@@ -27,6 +27,6 @@ A: I have no idea.
 
 ---
 
-Q: Do you play basketball?
+Q: Do you sport?
 
 A: No.
