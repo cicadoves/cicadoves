@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 Q: Who are you?
 
 A: I am Gary.
@@ -28,3 +28,8 @@ A: I have no idea.
 Q: Do you sport?
 
 A: No.
+-->
+
+<p align="center">
+    <img src="loading.gif">
+</p>
