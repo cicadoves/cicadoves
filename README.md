@@ -1,35 +1,11 @@
-<!--
-**thisgary/thisgary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About
 
-Here are some ideas to get you started:
+A boring person. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-Q: Who are you?
+### Who are you?
 
-A: I am Gary.
+Am Gary, 22 years old (as of commit), a student. 
 
----
+### What are you doing?
 
-Q: What are you doing?
-
-A: I have no idea. 
-
----
-
-Q: Do you sport?
-
-A: No.
--->
-
-<p align="center">
-    <img src="loading.gif">
-</p>
+Have no idea. But maybe I do, who knows.
