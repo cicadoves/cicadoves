@@ -1,3 +1,4 @@
 # About
 
-Am Gary since 2001, currently an intern. 
+- Currently an intern. 
+- Did Web, SQL, Java, Python before, currently doing Flutter and .NET.
